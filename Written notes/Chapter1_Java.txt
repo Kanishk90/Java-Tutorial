@@ -1,0 +1,10 @@
+java
+developed by sun Microsystems(Company) intiated by james gosling 1995
+
+O.P.S.R--> Object oriented;portable or Cross platform;Secure;Robust;
+
+History--> Oak-gree-java;(WORA);2006;2007
+
+
+
+

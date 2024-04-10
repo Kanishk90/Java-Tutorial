@@ -1,0 +1,4 @@
+Java Program-- collection of object and classes
+
+Object- An Object is an instance of class.
+Class- A class is the blue print.
